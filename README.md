@@ -31,14 +31,18 @@ Businesses often struggle to estimate future sales based on past performance. Th
 
 ---
 
-##📈 Output
--Graph: Actual vs Predicted Sales
+### 📊 Model Output
 
--Table: Actual vs Predicted values
+**Actual vs Predicted Sales:**
+
+![Prediction Plot](images/predicted_vs_actual.png)
+
+**Forecast for Next 6 Months:**
+
+![Forecast Plot](images/forecasted_sales.png)
+
 
 -Metric: RMSE (Root Mean Squared Error)
-
--Forecast: Sales prediction for the next 6 months
 
 -Graph: Future Forecasted Sales
 
